@@ -1,0 +1,30 @@
+body {
+  background: #f9fafc;
+  font-family: "Open Sans", sans-serif;
+  padding: 10px;
+}
+header {
+  display: flex;
+  flex-direction: column;
+}
+li {
+  list-style-type: none;
+  padding: 5px;
+}
+a {
+  color: #69696a;
+  text-decoration: none;
+}
+
+button {
+  background-color: black;
+  color: #fff;
+  width: 100%;
+  border-radius: 25px;
+}
+p {
+  border-left-style: solid;
+  border-color: #69696a;
+  color: #69696a;
+  padding: 10px;
+}
